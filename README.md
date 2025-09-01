@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+My name is Wirakorn Thanabat, but you can call me Art :)
+I study at Thammasat University, Thailand as Computer Science.
+For TA and Pro.
+    SID:6809617415
 <!--
 **nrokariw/nrokariw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
